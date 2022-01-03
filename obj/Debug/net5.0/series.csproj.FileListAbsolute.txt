@@ -1,0 +1,16 @@
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\series.exe
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\series.deps.json
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\series.runtimeconfig.json
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\series.runtimeconfig.dev.json
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\series.dll
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\ref\series.dll
+C:\Users\joao.santos\Desktop\projetos\series\bin\Debug\net5.0\series.pdb
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.csproj.AssemblyReference.cache
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.AssemblyInfo.cs
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.dll
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\ref\series.dll
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.pdb
+C:\Users\joao.santos\Desktop\projetos\series\obj\Debug\net5.0\series.genruntimeconfig.cache
